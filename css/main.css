@@ -3,6 +3,7 @@ body{
     padding: 0px;
     font-family: 'Roboto';
     cursor: default;
+    background: white;
 }
 
 .container{
